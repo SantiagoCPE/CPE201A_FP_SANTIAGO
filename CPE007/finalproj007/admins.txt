@@ -1,0 +1,3 @@
+admin|admin123|Default Administrator
+
+//This is the default login info for the Administrator. Use this for logging in and testing the account features :))))
